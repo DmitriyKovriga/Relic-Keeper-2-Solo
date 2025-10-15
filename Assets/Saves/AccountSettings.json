@@ -1,0 +1,17 @@
+{
+    "graphics": {
+        "resolution": "1600x900",
+        "fullscreen": true,
+        "vSync": true,
+        "quality": "High"
+    },
+    "audio": {
+        "masterVolume": 0.5580437779426575,
+        "musicVolume": 0.800000011920929,
+        "sfxVolume": 0.800000011920929
+    },
+    "gameplay": {
+        "language": "ru",
+        "showHints": true
+    }
+}
